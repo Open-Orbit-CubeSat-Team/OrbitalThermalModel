@@ -1,0 +1,5 @@
+# MECH 544 — Python 3.12
+# Install with: pip install -r requirements.txt
+numpy==2.4.2
+matplotlib==3.10.8
+scipy==1.17.1
